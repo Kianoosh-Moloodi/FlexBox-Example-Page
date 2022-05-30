@@ -1,7 +1,6 @@
 #section1 .items .item{
     display: flex;
     flex-direction: row;
-    text-align: left;
 
 }
 
